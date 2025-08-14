@@ -24,6 +24,6 @@ version: v1.549.0
 appVersion: v1.549.0
 
 maintainers:
-	- name: flysky
-		email: xenochou@qq.com
-		url: https://github.com/FlySky-z
+  - name: flysky
+    email: xenochou@qq.com
+    url: https://github.com/FlySky-z
