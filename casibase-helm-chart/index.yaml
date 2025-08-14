@@ -9,6 +9,6 @@ entries:
     name: casibase-helm-chart
     type: application
     urls:
-    - https://github.com/FlySky-z/casibase-helm/tree/test/casibase-helm-chart/charts/casibase-helm-chart-v1.549.0.tgz
+    - https://github.com/FlySky-z/casibase-helm/raw/refs/heads/test/casibase-helm-chart/charts/casibase-helm-chart-v1.549.0.tgz
     version: v1.549.0
 generated: "2025-08-14T20:37:38.694656697+08:00"
