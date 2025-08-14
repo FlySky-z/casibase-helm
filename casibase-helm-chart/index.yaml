@@ -3,12 +3,12 @@ entries:
   casibase-helm-chart:
   - apiVersion: v2
     appVersion: v1.549.0
-    created: "2025-08-12T17:17:57.677319473Z"
+    created: "2025-08-14T20:37:38.695414311+08:00"
     description: A Helm chart for Kubernetes
-    digest: c994d33ca3d64f224153dee164f0e8798f1370752b56be44a424636dc60eccb9
+    digest: e72089e465ba2d2ac66235c6a11d18108672ff5ab91f9fd4290a7d7377141c3a
     name: casibase-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.549.0.tgz
+    - https://github.com/FlySky-z/casibase-helm/tree/test/casibase-helm-chart/charts/casibase-helm-chart-v1.549.0.tgz
     version: v1.549.0
-generated: "2025-08-12T17:17:57.669924073Z"
+generated: "2025-08-14T20:37:38.694656697+08:00"
