@@ -22,3 +22,8 @@ version: v1.549.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 appVersion: v1.549.0
+
+maintainers:
+	- name: flysky
+		email: xenochou@qq.com
+		url: https://github.com/FlySky-z
